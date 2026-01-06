@@ -68,6 +68,6 @@ A professional mobile weather application built with **React Native (Expo)**, de
 * **Icons:** FontAwesome 5
 
 ## 🚀 How to Run
-1.  Clone the repo: `git clone https://github.com/YOUR_USERNAME/weather-mobile-app.git`
+1.  Clone the repo: `git clone https://github.com/wannabes48/weather-mobile-app.git`
 2.  Install dependencies: `npm install`
 3.  Run the app: `npx expo start`
